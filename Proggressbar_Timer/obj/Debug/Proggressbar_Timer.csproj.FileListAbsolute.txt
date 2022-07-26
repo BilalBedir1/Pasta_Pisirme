@@ -1,0 +1,11 @@
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\bin\Debug\Proggressbar_Timer.exe.config
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\bin\Debug\Proggressbar_Timer.exe
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\bin\Debug\Proggressbar_Timer.pdb
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\obj\Debug\Proggressbar_Timer.csproj.AssemblyReference.cache
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\obj\Debug\Proggressbar_Timer.csproj.SuggestedBindingRedirects.cache
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\obj\Debug\Proggressbar_Timer.Form1.resources
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\obj\Debug\Proggressbar_Timer.Properties.Resources.resources
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\obj\Debug\Proggressbar_Timer.csproj.GenerateResource.cache
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\obj\Debug\Proggressbar_Timer.csproj.CoreCompileInputs.cache
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\obj\Debug\Proggressbar_Timer.exe
+D:\Bilal\Documents\Kurslar\C#\Proggressbar_Timer\Proggressbar_Timer\obj\Debug\Proggressbar_Timer.pdb
